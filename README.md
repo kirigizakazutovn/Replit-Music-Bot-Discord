@@ -42,6 +42,14 @@ Copy `TOKEN` bot của bạn và vào repo bạn vừa fork về
 
 - Với máy tính,bạn làm như sau:
 
-Tìm trên thanh hình `🔒`,vào đó và hoàn thành như sau
+Tìm trên thanh dọc hình `🔒`,vào đó và hoàn thành như sau
 
-`key = TOKEN ; value = Toen_Bot_Của_Bạn`
+`key = TOKEN ; value = Token_Bot_Của_Bạn`
+
+- Với điện thoại
+
+Chọn `Commands` dưới thanh ngang -> gõ `secerts`
+
+Hoàn thành tương tự như sau
+
+`key = TOKEN ; value = Token_Bot_Của_Bạn`
