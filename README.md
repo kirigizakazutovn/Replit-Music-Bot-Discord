@@ -33,3 +33,15 @@ https://discord.com/developers/applications
 Click vào `New Application`
 
 Nhập vào mục `Name` tên bot của bạn rồi click vào `Create`
+
+Nhấn vào mục 3 gạch ngang và chọn `Bot`
+
+Chọn `Add Bot`
+
+Copy `TOKEN` bot của bạn và vào repo bạn vừa fork về
+
+- Với máy tính,bạn làm như sau:
+
+Tìm trên thanh hình `🔒`,vào đó và hoàn thành như sau
+
+`key = TOKEN ; value = Toen_Bot_Của_Bạn`
